@@ -1,4 +1,4 @@
-# Algorithms-Implementations
+# Algorithms Implementations
 Implementation of various algorithms in C++.
 
 Projects I have worked on include:
