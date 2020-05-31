@@ -19,4 +19,4 @@ waterjugpuzzle.cpp - Solves the water jug puzzle given 3 capacities and goals us
 
 inversioncounter.cpp - Counts the number of inversions in an array by using either brute force or with mergesort.
 
-shortestpaths.cpp - Finds all the shortest paths between points in a distance matrix using Floyd's Algorithm
+shortestpaths.cpp - Finds all the shortest paths between points in a distance matrix using Floyd's Algorithm.
